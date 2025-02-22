@@ -13,7 +13,7 @@ Spatial cross-validation is crucial for evaluating models that rely on geospatia
 ## Website  
 
 For more details and additional resources, visit my website:  
-🔗 [Spatial Cross-Validation](https://www.vanwildlife.com/cross-validation/)  
+🔗 [VanWildlife](https://www.vanwildlife.com/cross-validation/)  
 
 ## Contributions  
 
